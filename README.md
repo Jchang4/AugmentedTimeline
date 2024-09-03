@@ -16,9 +16,15 @@ This Swift project leverages Vision OS to create an immersive Augmented Reality 
 * **Career Highlights**: Visualize career progressions, promotions, and key decisions in an interactive format.
 * **Educational Tool**: Use the AR timeline for teaching history, biographies, and other subjects where chronological understanding is crucial.
 
-### Stretch Goals:
+## Stretch Goals:
 - Add form to get an Open AI API Token
 - Connect to Chat GPT
 - Add drag gesture to pull timeline closer or move it around
 - Add pinch gestures to resize timeline
   - The event placements are already relative to the length of the timeline, so this should be a easy addition
+
+## Contributions
+I welcome contributions to enhance features, add more timeline functionalities, or improve the overall user experience.
+
+## License
+This project is licensed under the MIT License.
