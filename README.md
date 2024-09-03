@@ -2,7 +2,7 @@
 
 [Example Video](https://github.com/user-attachments/assets/b710a776-d854-4436-878c-707fe309ce89)
 
-** Additional timeline events come in when I click "See More"**
+*Additional timeline events come in when I click "See More"*
 
 ## Overview
 This Swift project leverages Vision OS to create an immersive Augmented Reality (AR) timeline that visually chronicles the significant events in a person's life or career. The timeline starts with a few key milestones and allows users to explore more detailed events interactively.
