@@ -1,6 +1,7 @@
 # Augmented Timeline (Biographic Timeline)
 
 [Example Video](https://github.com/user-attachments/assets/b710a776-d854-4436-878c-707fe309ce89)
+
 ** Additional timeline events come in when I click "See More"**
 
 ## Overview
