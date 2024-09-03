@@ -1,0 +1,42 @@
+[
+    {
+        "date": "1960-11-01",
+        "name": "Birth",
+        "description": "Tim Cook is born in Robertsdale, Alabama, USA."
+    },
+    {
+        "date": "1982-05-01",
+        "name": "Graduation from Auburn University",
+        "description": "Tim Cook graduates with a Bachelor of Science in Industrial Engineering from Auburn University."
+    },
+    {
+        "date": "1988-03-01",
+        "name": "Joining Compaq",
+        "description": "Tim Cook joins Compaq as a Director of Corporate Materials."
+    },
+    {
+        "date": "1997-03-01",
+        "name": "Joining Apple Inc.",
+        "description": "Tim Cook joins Apple Inc. as Senior Vice President for Worldwide Operations."
+    },
+    {
+        "date": "2004-10-01",
+        "name": "Promotion to COO",
+        "description": "Tim Cook is promoted to Chief Operating Officer (COO) of Apple Inc."
+    },
+    {
+        "date": "2011-08-24",
+        "name": "Becomes CEO of Apple Inc.",
+        "description": "Tim Cook is named CEO of Apple Inc., succeeding Steve Jobs."
+    },
+    {
+        "date": "2014-04-01",
+        "name": "Apple Watch Announcement",
+        "description": "Tim Cook announces the Apple Watch, a new product line for Apple Inc."
+    },
+    {
+        "date": "2021-09-01",
+        "name": "iPhone 13 Release",
+        "description": "Apple releases the iPhone 13 series under Tim Cook's leadership."
+    }
+]

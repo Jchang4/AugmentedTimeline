@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2004-10-01",
+        "name": "Promotion to COO",
+        "description": "Tim Cook is promoted to Chief Operating Officer (COO) of Apple Inc., responsible for worldwide sales and operations."
+    },
+    {
+        "date": "2005-01-01",
+        "name": "Launch of iPod shuffle",
+        "description": "Under Tim Cook’s operations leadership, Apple launches the iPod shuffle, a new portable music player."
+    },
+    {
+        "date": "2006-03-01",
+        "name": "Apple's Acquisition of NeXT",
+        "description": "Apple completes its acquisition of NeXT, a company founded by Steve Jobs, leading to the development of Mac OS X."
+    },
+    {
+        "date": "2007-01-09",
+        "name": "Introduction of iPhone",
+        "description": "Apple unveils the first iPhone, a revolutionary product that integrates a phone, an iPod, and an internet communicator."
+    },
+    {
+        "date": "2008-07-11",
+        "name": "App Store Launch",
+        "description": "The Apple App Store is launched, providing a platform for third-party apps on iOS devices."
+    },
+    {
+        "date": "2009-09-01",
+        "name": "Introduction of iPhone 3GS",
+        "description": "Apple introduces the iPhone 3GS, offering improved performance and new features like video recording."
+    },
+    {
+        "date": "2010-06-07",
+        "name": "Introduction of iPhone 4",
+        "description": "Apple unveils the iPhone 4, featuring a new design, Retina display, and the FaceTime video calling feature."
+    },
+    {
+        "date": "2011-01-01",
+        "name": "Tim Cook Named CEO",
+        "description": "Tim Cook is officially named CEO of Apple Inc., succeeding Steve Jobs who steps down due to health issues."
+    },
+    {
+        "date": "2011-08-24",
+        "name": "Becomes CEO of Apple Inc.",
+        "description": "Tim Cook is formally appointed as CEO of Apple Inc., marking a significant transition in the company’s leadership."
+    }
+]
